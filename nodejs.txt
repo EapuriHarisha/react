@@ -1,0 +1,64 @@
+web designining with react
+course content:
+HTML5
+CSS3
+CSS framework bootstrap
+javascript
+ES6 fundamentals
+javascript libraries reactjs
+
+FULLstack developer:
+frontend:
+-HTML -CSS -JAVAscript
+
+Backend:
+-php -python -Ruby
+
+Version Control:
+ - Allows developers work simultaneously
+ - doesnot allow overwriting each other changes
+ - maintain a history of every version
+TYpes of version control systems:
+1)centralised version control system
+2)distributed version control systems
+
+Centralized version control system:
+
+
+Git:
+$git version
+
+credentials:
+$git config --global user.name "github username"
+$git config -- global user.email "github email"
+
+check:
+$git config user.name
+$git config user.email
+
+cloning:
+$git clone paste githubproject url
+
+stagging:
+$git add <file1><file2>...<filen>
+     .take a space-seperated list of names
+
+All files:
+$git add --a(or) git add --all
+    . if you need to remove(unstage) the staged files by using
+   $git rm --cached <file1><file2>
+
+After adding files check through:
+$git status
+
+commiting:
+git commit -m "message"
+
+check:
+git log
+
+push:
+git push origin master
+
+
+
